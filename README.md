@@ -20,6 +20,7 @@ For each record it is provided:
 Data set costruction:
 --------------------------------------------------------
 1. Initialization (clear workspace, setup path to dataset)
+    * note: you need to set the correct path to the Samsung data set 
 2. Load test set
     * X_test - 561-feature vector from test set. Loaded from Test set: 'test/X_test.txt'
     * Y_test - activity label (range 1-6). Loaded from Test labels: 'test/y_test.txt'
