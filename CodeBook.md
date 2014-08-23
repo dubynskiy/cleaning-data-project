@@ -2,6 +2,9 @@
 Code Book
 ==========
 
+#### Notes:
+- 'tidy' dataset contains average of each variable for each activity and each subject
+
 
   |Column  |  Variable Name | Description        |
   |--------|----------------|--------------------|
