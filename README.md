@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-=======
 cleaning-data-project
 =====================
 
->>>>>>> FETCH_HEAD
 The project submission includes the following files:
 --------------------------------------------------------
 - 'README.md'
@@ -56,7 +53,3 @@ of each variable for each activity and each subject
 Notes: 
 --------------------------------------------------------
 - Features in the original set were normalized and bounded within [-1,1].
-<<<<<<< HEAD
-=======
-
->>>>>>> FETCH_HEAD
