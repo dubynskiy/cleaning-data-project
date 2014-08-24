@@ -10,12 +10,6 @@ The project submission includes the following files:
 - 'run_analysis.R': R script to generate tidy set as described below
 
 
-For each record it is provided:
---------------------------------------------------------
-- A 561-feature vector with time and frequency domain variables. 
-- Its activity label. 
-- An identifier of the subject who carried out the experiment.
-
 
 Data set costruction:
 --------------------------------------------------------
@@ -50,7 +44,3 @@ of each variable for each activity and each subject
 
 9. Write tidy data set to the file 'tidySet.txt'
 
-
-Notes: 
---------------------------------------------------------
-- Features in the original set were normalized and bounded within [-1,1].
